@@ -20,6 +20,16 @@ Transformar una planilla desordenada en un sistema automatizado, claro y visual 
 
 ---
 
+## 🔍 Mejora de experiencia en Google Sheets
+
+Además de ordenar los datos, incorporamos **filtros visuales tipo segmentador** directamente en la planilla para facilitar la navegación:
+
+- Filtro por **Tipo** de unidad (Tractor, Tanque, Semis)  
+- Filtro por **Estado actual** (Disponible, En viaje, No disponible...)  
+- Filtro por **Conductor** asignado
+
+---
+
 ## 📊 Resultado visual
 
 | Antes | Después |
@@ -30,19 +40,17 @@ Transformar una planilla desordenada en un sistema automatizado, claro y visual 
 
 ## 🛠 Herramientas utilizadas
 
-- **Google Sheets** (estructura, fórmulas, validación)
+- **Google Sheets** (estructura, fórmulas, validación, filtros)
 - **Looker Studio** (visualización y KPIs)
 - **GitHub** (documentación profesional)
 
 ---
 
----
-
 ## 💡 Qué vas a encontrar en este repositorio
 
-- El archivo final (`disponibilidad_logistica.xlsx`) estructurado y listo para BI
-- Capturas del antes y después
-- Explicación paso a paso en `proceso.md`
+- El archivo final (`disponibilidad_logistica.xlsx`) estructurado y listo para BI  
+- Capturas del antes y después  
+- Explicación paso a paso en `proceso.md`  
 - Modelo de transformación de datos sin código (Google Sheets + Looker)
 
 ---
